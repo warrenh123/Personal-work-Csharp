@@ -1,0 +1,29 @@
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.exe
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.deps.json
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.runtimeconfig.json
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.dll
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.pdb
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.dll
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\refint\ConsoleAppPersonal01.dll
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.pdb
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Desktop\C# work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ref\ConsoleAppPersonal01.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.exe
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.deps.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.runtimeconfig.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\bin\Debug\net9.0\ConsoleAppPersonal01.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.sourcelink.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\refint\ConsoleAppPersonal01.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ConsoleAppPersonal01.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\ConsoleAppPersonal01\obj\Debug\net9.0\ref\ConsoleAppPersonal01.dll

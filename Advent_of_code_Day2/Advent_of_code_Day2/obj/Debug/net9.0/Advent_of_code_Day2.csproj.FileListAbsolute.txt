@@ -1,0 +1,15 @@
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\bin\Debug\net9.0\Advent_of_code_Day2.exe
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\bin\Debug\net9.0\Advent_of_code_Day2.deps.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\bin\Debug\net9.0\Advent_of_code_Day2.runtimeconfig.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\bin\Debug\net9.0\Advent_of_code_Day2.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\bin\Debug\net9.0\Advent_of_code_Day2.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.sourcelink.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\refint\Advent_of_code_Day2.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\Advent_of_code_Day2.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code_Day2\Advent_of_code_Day2\obj\Debug\net9.0\ref\Advent_of_code_Day2.dll

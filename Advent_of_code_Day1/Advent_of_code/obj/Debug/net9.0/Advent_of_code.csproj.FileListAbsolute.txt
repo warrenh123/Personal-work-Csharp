@@ -1,0 +1,15 @@
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\bin\Debug\net9.0\Advent_of_code.exe
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\bin\Debug\net9.0\Advent_of_code.deps.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\bin\Debug\net9.0\Advent_of_code.runtimeconfig.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\bin\Debug\net9.0\Advent_of_code.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\bin\Debug\net9.0\Advent_of_code.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.sourcelink.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\refint\Advent_of_code.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\Advent_of_code.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Advent_of_code\Advent_of_code\obj\Debug\net9.0\ref\Advent_of_code.dll
