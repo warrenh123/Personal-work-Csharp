@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2.csproj": {}
+    "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2.csproj": {
+    "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2.csproj",
-        "projectName": "Advent_Of_Code_Day3_Part2",
-        "projectPath": "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2.csproj",
+        "projectUniqueName": "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1.csproj",
+        "projectName": "Advent-of-code-Day4-Part1",
+        "projectPath": "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1.csproj",
         "packagesPath": "C:\\Users\\warre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent_Of_Code_Day3_Part2\\Advent_Of_Code_Day3_Part2\\obj\\",
+        "outputPath": "C:\\Users\\warre\\OneDrive\\Desktop\\Coding\\Csharp-work\\Personal work\\Personal-work-Csharp\\Advent-of-code-Day4-Part1\\Advent-of-code-Day4-Part1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\warre\\AppData\\Roaming\\NuGet\\NuGet.Config"

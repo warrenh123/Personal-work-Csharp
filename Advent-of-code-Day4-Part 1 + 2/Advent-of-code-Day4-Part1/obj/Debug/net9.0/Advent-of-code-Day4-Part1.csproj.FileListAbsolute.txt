@@ -1,0 +1,15 @@
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\bin\Debug\net9.0\Advent-of-code-Day4-Part1.exe
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\bin\Debug\net9.0\Advent-of-code-Day4-Part1.deps.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\bin\Debug\net9.0\Advent-of-code-Day4-Part1.runtimeconfig.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\bin\Debug\net9.0\Advent-of-code-Day4-Part1.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\bin\Debug\net9.0\Advent-of-code-Day4-Part1.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.sourcelink.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\refint\Advent-of-code-Day4-Part1.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\Advent-of-code-Day4-Part1.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Advent-of-code-Day4-Part1\Advent-of-code-Day4-Part1\obj\Debug\net9.0\ref\Advent-of-code-Day4-Part1.dll

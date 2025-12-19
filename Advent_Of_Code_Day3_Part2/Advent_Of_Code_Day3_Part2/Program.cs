@@ -11,25 +11,24 @@ foreach (string line in lines)
 
     int maxDigit = joltages[0];
     int indexOfMaxDigit = 0;
-    int count = 0;
+    int count = 11;
     string outPut = "";
 
-    
-    for (int i = 0; i < joltages.Count - 12; i++)
+    while(count >= 0)
     {
-        if(joltages[i] > maxDigit) 
+        for (int i = 0; i < joltages.Count - count; i++)
         {
-            maxDigit = joltages[i];
-            indexOfMaxDigit = i;
+            if(joltages[i] > maxDigit) 
+            {
+                maxDigit = joltages[i];
+                indexOfMaxDigit = i;
+            }
         }
-    } 
-    outPut +=  maxDigit.ToString();
-    joltages.RemoveRange(0, indexOfMaxDigit + 1);
-
+        outPut +=  maxDigit.ToString();
+        maxDigit = 0;
+        joltages.RemoveRange(0, indexOfMaxDigit + 1);
+        count--;
+    }
     totalSum += long.Parse(outPut);
-    count ++;
-    
-
-
 }
 Console.WriteLine(totalSum);
