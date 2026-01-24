@@ -1,4 +1,4 @@
-class Square
+public class Square
 {
     private double side;
     public static int NumberOfSquares;
