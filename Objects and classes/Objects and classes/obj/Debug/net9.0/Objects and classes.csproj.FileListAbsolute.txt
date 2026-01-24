@@ -1,0 +1,15 @@
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\bin\Debug\net9.0\Objects and classes.exe
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\bin\Debug\net9.0\Objects and classes.deps.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\bin\Debug\net9.0\Objects and classes.runtimeconfig.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\bin\Debug\net9.0\Objects and classes.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\bin\Debug\net9.0\Objects and classes.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.sourcelink.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\refint\Objects and classes.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\Objects and classes.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\Objects and classes\Objects and classes\obj\Debug\net9.0\ref\Objects and classes.dll

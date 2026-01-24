@@ -1,0 +1,15 @@
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\bin\Debug\net9.0\BIO revision.exe
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\bin\Debug\net9.0\BIO revision.deps.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\bin\Debug\net9.0\BIO revision.runtimeconfig.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\bin\Debug\net9.0\BIO revision.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\bin\Debug\net9.0\BIO revision.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.sourcelink.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\refint\BIO revision.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\BIO revision.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\BIO revision\BIO revision\obj\Debug\net9.0\ref\BIO revision.dll
