@@ -1,4 +1,4 @@
-public class Square
+public class Square : Ishape
 {
     private double side;
     public static int NumberOfSquares;

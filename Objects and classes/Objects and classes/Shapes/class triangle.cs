@@ -2,7 +2,7 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.Intrinsics.Arm;
 
-public class Triangle
+public class Triangle : Ishape //We say that Triangle belongs to Ishape interface
 {
     public static int numberofTriangles; // static makes sure it is not for each object 
     public double s1, s2, s3; // these are the fields which are some properties of an object
@@ -30,6 +30,8 @@ public class Triangle
             return Math.Acos(cosC) * 180.0 / Math.PI;
         }
     }
+
+    public double Perimeter => s1 + s2 + s3; // this does the same as above just neater
 
 
     public Triangle(double a, double b, double c) // This is the constructor, lets you pass in values you need
@@ -89,7 +91,4 @@ public class Triangle
         double s = (s1 + s2 + s3) / 2;
         return Math.Sqrt(s * (s-s1) * (s-s2) * (s-s3));
     }
-
-
-    
 }

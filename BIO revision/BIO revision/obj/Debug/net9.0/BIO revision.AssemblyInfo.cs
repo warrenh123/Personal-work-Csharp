@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BIO revision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49f8f5f42b3f40f75865be2169aae8cf8363a3e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffef33f2f9ddebb23be42264f45937291293079e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BIO revision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BIO revision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
