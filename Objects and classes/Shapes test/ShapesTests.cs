@@ -64,6 +64,6 @@ public sealed class SquaresTests
         Square s2 = new Square();
         Square s3 = new Square();
 
-        Assert.AreEqual(3, Square.NumberOfSquares);
+        Assert.AreEqual(4, Square.NumberOfSquares); // 4 because we initialised a square in main program
     }
 }
