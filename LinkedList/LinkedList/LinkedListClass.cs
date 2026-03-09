@@ -91,17 +91,41 @@ public class MyLinkedList
 
     public void Insert(int v, int i)
     {
-        int count = 1;
+        if(i == 0)
+        {
+            Prepend(v);
+            return;
+        }
+
+        int count = 0;
         Node current = head;
         Node newNode = new Node(v);
 
-        while(count < i)
+        while(current != null && count < i - 1)
         {
             current = current._next;
             count++;
         }
-
+        if(current == null) // if i is too big, just add to end
+        {
+            Append(v);
+            return;
+        }
+        newNode._next = current._next;
         current._next = newNode;
-        
     }
+
+    public bool Contains(int v)
+    {
+        Node current = head;
+
+        while(current != null)
+        {
+            if(current.value == v) return true;
+            current = current._next;
+        }
+        return false;
+    }
+
+    
 }
