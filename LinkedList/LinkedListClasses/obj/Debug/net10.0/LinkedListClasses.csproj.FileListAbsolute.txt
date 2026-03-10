@@ -1,0 +1,12 @@
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\bin\Debug\net10.0\LinkedListClasses.deps.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\bin\Debug\net10.0\LinkedListClasses.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\bin\Debug\net10.0\LinkedListClasses.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\LinkedListClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\LinkedListClasses.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\LinkedListClasses.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\LinkedListClasses.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\LinkedListClasses.sourcelink.json
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\LinkedListClasses.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\refint\LinkedListClasses.dll
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\LinkedListClasses.pdb
+C:\Users\warre\OneDrive\Desktop\Coding\Csharp-work\Personal work\Personal-work-Csharp\LinkedList\LinkedListClasses\obj\Debug\net10.0\ref\LinkedListClasses.dll

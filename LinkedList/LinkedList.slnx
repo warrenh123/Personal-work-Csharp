@@ -1,6 +1,4 @@
 <Solution>
-  <Folder Name="/LinkedList/">
-    <Project Path="LinkedList/LinkedListTests/LinkedListTests.csproj" />
-  </Folder>
-  <Project Path="LinkedListTests/LinkedListTests.csproj" />
+  <Project Path="LinkedListClasses/LinkedListClasses.csproj" />
+  <Project Path="LinkedListTest/LinkedListTest.csproj" />
 </Solution>
